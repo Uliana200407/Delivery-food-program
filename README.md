@@ -25,5 +25,5 @@ Image 1 | Image 2
 :-: | :-:
 ![Image1](https://i.imgur.com/TfKQCRm.png) | ![Image2](https://i.imgur.com/hHUucfw.png)
 Image 3 | Image 4
-
+:-: | :-:
 ![Image3](https://i.imgur.com/QL28zJS.png) | ![Image4](https://i.imgur.com/tkHb8q2.png)
