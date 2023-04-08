@@ -23,4 +23,4 @@ https://user-images.githubusercontent.com/114984015/230743105-def18524-0fb4-4a6a
 
 Image 1 | Image 2
 :-: | :-:
-![Image1](https://i.imgur.com/17LLmad.png) | ![Image2](https://imgur.com/hHUucfw)
+![Image1](https://i.imgur.com/hHUucfw.png) | ![Image2](https://imgur.com/hHUucfw)
