@@ -4,6 +4,7 @@ Well, here I'd like to introduce you my delivery food program called, as a "Gree
 -  [Required packages](#Required-packages)
 -  [Demonstration of work](#Demonstration-of-work)
 -  [Photo demonstration of work](#Photo-demonstration-of-work)
+-  [Functionality details](#Functionality-details)
 
 <a name="Required-packages"/></a>
 ## Required packages
