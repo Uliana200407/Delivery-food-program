@@ -33,7 +33,9 @@ Image 3 | Image 4
 ![Image3](https://i.imgur.com/QL28zJS.png) | ![Image4](https://i.imgur.com/tkHb8q2.png)
 <a name="Functionality-details⚙️"/></a>
 ## Functionality details⚙️
-* Ability to surf the menu of the "GreenFood", which is located on a cloud "Firebase", which means, that it will be handy and pretty dynamic;
-* Possibility to order dishes, like in the real delivery food app, where all data of users orders will be transfered to the database on a "Firebase";
+* Ability to browse the menu of 'GreenFood', which is hosted on the cloud platform 'Firebase', making it convenient and highly dynamic.
+* Capability to order dishes, as in a real food delivery app, with all user order data transferred to the 'Firebase' database.
+* Option to view discounts, promotional videos, Instagram links, and contact information.
+* GreenFood' operates with user location sharing enabled under an agreement.
 
 
