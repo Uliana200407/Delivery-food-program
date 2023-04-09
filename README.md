@@ -2,8 +2,8 @@
 Well, here I'd like to introduce you my delivery food program called, as a "GreenFood", which is in the cooperation with Firebase.
 
 -  [Required packages📦](#Required-packages📦)
--  [Demonstration of work](#Demonstration-of-work)
--  [Photo demonstration of work](#Photo-demonstration-of-work)
+-  [Demonstration of work📲](#Demonstration-of-work📲)
+-  [Photo demonstration of work📸](#Photo-demonstration-of-work📸)
 -  [Functionality details⚙️](#Functionality-details⚙️)
 
 <a name="Required-packages📦"/></a>
@@ -14,13 +14,13 @@ Well, here I'd like to introduce you my delivery food program called, as a "Gree
 | SDWebImageSwiftUI  | https://github.com/SDWebImage/SDWebImageSwiftUI | 2.2.2 |
 | SDWebImage | https://github.com/SDWebImage/SDWebImage | 5.15.0 |
 
-<a name="Demonstration-of-work"/></a>
-## Demonstration of work
+<a name="Demonstration-of-work📲"/></a>
+## Demonstration of work📲
 
 https://user-images.githubusercontent.com/114984015/230743105-def18524-0fb4-4a6a-abe6-e9cb9a40871c.mp4
 
-<a name="Photo-demonstration-of-work"/></a>
-## Photo demonstration of work
+<a name="Photo-demonstration-of-work📸"/></a>
+## Photo demonstration of work📸
 
 Image 1 | Image 2
 :-: | :-:
