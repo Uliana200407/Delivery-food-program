@@ -39,3 +39,5 @@ Image 3 | Image 4
 * GreenFood' operates with user location sharing enabled under an agreement.
 
 
+
+## Demonstration of work
