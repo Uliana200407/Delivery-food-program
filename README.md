@@ -6,7 +6,7 @@ Well, here I'd like to introduce you my delivery food program called, as a "Gree
 -  [Brief description](#Brief-description)
 <a name="Functional-details"/></a>
 ## Functional details📍
-<span style="color:red">Essential packages for the pet-project:</span>
+## Essential packages for the pet-project:
 | **Firebase**    | **SDWebImage**  | **leveldb**     | **SDWebImageSwiftUI** |
 |-----------------|-----------------|-----------------|-----------------------|
 | 9.6.0           | 5.15.0          | 1.22.1.         | 2.2.2                 |
