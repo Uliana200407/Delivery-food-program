@@ -1,11 +1,12 @@
 # Delivery-food-program🍀
 Well, here I'd like to introduce you my delivery food program called, as a "GreenFood", which is in the cooperation with Firebase.
--  [Functional details](#Functional-details)
+-  [Functional details📍](#Functional-details📍)
 -  [Demonstration of work](#Demonstration-of-work)
 -  [Photo demonstration of work](#Photo-demonstration-of-work)
 -  [Brief description](#Brief-description)
 <a name="Functional-details"/></a>
-## Functional details
+## Functional details📍
+<span style="color:red">Essential packages for the pet-project:</span>
 | **Firebase**    | **SDWebImage**  | **leveldb**     | **SDWebImageSwiftUI** |
 |-----------------|-----------------|-----------------|-----------------------|
 | 9.6.0           | 5.15.0          | 1.22.1.         | 2.2.2                 |
