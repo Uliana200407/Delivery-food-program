@@ -74,8 +74,8 @@
          </BuildableReference>
       </BuildableProductRunnable>
       <LocationScenarioReference
-         identifier = "San Francisco, CA, USA"
-         referenceType = "1">
+         identifier = "../../05-Jun-2023-0132.gpx"
+         referenceType = "0">
       </LocationScenarioReference>
    </LaunchAction>
    <ProfileAction

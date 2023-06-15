@@ -28,6 +28,15 @@
       }
     },
     {
+      "identity" : "fortunewheel",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/sameersyd/FortuneWheel.git",
+      "state" : {
+        "revision" : "900461e1c22ca70ee0b0e15cf97e3cef4132d84b",
+        "version" : "0.1.5"
+      }
+    },
+    {
       "identity" : "googleappmeasurement",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/google/GoogleAppMeasurement.git",

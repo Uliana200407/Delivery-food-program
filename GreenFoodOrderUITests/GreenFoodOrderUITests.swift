@@ -1,9 +1,4 @@
-//
-//  GreenFoodOrderUITests.swift
-//  GreenFoodOrderUITests
-//
-//  Created by mac on 11.01.2023.
-//
+
 
 import XCTest
 

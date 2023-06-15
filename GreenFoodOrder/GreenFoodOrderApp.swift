@@ -16,11 +16,14 @@ class AppDelegate: NSObject, UIApplicationDelegate {
 @main
 struct GreenFoodOrderApp: App {
     @UIApplicationDelegateAdaptor(AppDelegate.self) var delegate
+    @StateObject var homeViewModel = HomeViewModel()
+
     var body: some Scene {
         WindowGroup {
             NavigationView {
                 ContentView()
             }
+            .environmentObject(homeViewModel) // Додайте цей рядок
         }
     }
 }

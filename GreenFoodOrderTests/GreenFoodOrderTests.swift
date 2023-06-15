@@ -1,12 +1,7 @@
-//
-//  GreenFoodOrderTests.swift
-//  GreenFoodOrderTests
-//
-//  Created by mac on 11.01.2023.
-//
+
 
 import XCTest
-@testable import GreenFoodOrder
+//@testable import GreenFoodOrder
 
 final class GreenFoodOrderTests: XCTestCase {
 

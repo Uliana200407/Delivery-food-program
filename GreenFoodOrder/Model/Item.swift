@@ -11,4 +11,6 @@ struct Item : Identifiable{
     var dish_price: NSNumber
     var dish_rank: String
     var isInCart: Bool = false
+    var dish_cal: NSNumber
+
 }

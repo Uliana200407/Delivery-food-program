@@ -46,6 +46,8 @@
 		0447C90F296F3EF700D8D234 /* GreenFoodOrderUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0447C90E296F3EF700D8D234 /* GreenFoodOrderUITestsLaunchTests.swift */; };
 		0447C91C296F3F0E00D8D234 /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0447C91B296F3F0E00D8D234 /* Home.swift */; };
 		0447C921296F3F4700D8D234 /* HomeViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0447C920296F3F4700D8D234 /* HomeViewModel.swift */; };
+		046CAFF92A3657C500B4DFC8 /* FortuneWheel in Frameworks */ = {isa = PBXBuildFile; productRef = 046CAFF82A3657C500B4DFC8 /* FortuneWheel */; };
+		046CAFFB2A3665C200B4DFC8 /* AuthenticationViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 046CAFFA2A3665C200B4DFC8 /* AuthenticationViewModel.swift */; };
 		04C947C0297006990014A386 /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04C947BF297006990014A386 /* Launch Screen.storyboard */; };
 		04E5F97F297B40AB00BA067A /* ItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04E5F97E297B40AB00BA067A /* ItemView.swift */; };
 		04E5F982297B41A200BA067A /* SDWebImageSwiftUI in Frameworks */ = {isa = PBXBuildFile; productRef = 04E5F981297B41A200BA067A /* SDWebImageSwiftUI */; };
@@ -86,7 +88,9 @@
 		0447C90E296F3EF700D8D234 /* GreenFoodOrderUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GreenFoodOrderUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		0447C91B296F3F0E00D8D234 /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
 		0447C920296F3F4700D8D234 /* HomeViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewModel.swift; sourceTree = "<group>"; };
+		046CAFFA2A3665C200B4DFC8 /* AuthenticationViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthenticationViewModel.swift; sourceTree = "<group>"; };
 		04C947BF297006990014A386 /* Launch Screen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = "Launch Screen.storyboard"; sourceTree = "<group>"; };
+		04D269012A2F147A00C57875 /* 05-Jun-2023-0132.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "05-Jun-2023-0132.gpx"; sourceTree = "<group>"; };
 		04E5F97E297B40AB00BA067A /* ItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemView.swift; sourceTree = "<group>"; };
 		04FADD9C298315CF00F904FE /* Cart.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cart.swift; sourceTree = "<group>"; };
 		04FADD9E2983277C00F904FE /* CartView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CartView.swift; sourceTree = "<group>"; };
@@ -102,6 +106,7 @@
 				0435F2BB2979E29800375BE3 /* FirebaseFunctionsCombine-Community in Frameworks */,
 				0435F2B32979E29800375BE3 /* FirebaseFirestore in Frameworks */,
 				0435F29F2979E29800375BE3 /* FirebaseAnalyticsSwift in Frameworks */,
+				046CAFF92A3657C500B4DFC8 /* FortuneWheel in Frameworks */,
 				0435F29B2979E29800375BE3 /* FirebaseAnalytics in Frameworks */,
 				0435F29D2979E29800375BE3 /* FirebaseAnalyticsOnDeviceConversion in Frameworks */,
 				0435F2C32979E29800375BE3 /* FirebaseMLModelDownloader in Frameworks */,
@@ -148,6 +153,7 @@
 		0447C8E5296F3EF500D8D234 = {
 			isa = PBXGroup;
 			children = (
+				04D269012A2F147A00C57875 /* 05-Jun-2023-0132.gpx */,
 				0447C8F0296F3EF500D8D234 /* GreenFoodOrder */,
 				0447C901296F3EF700D8D234 /* GreenFoodOrderTests */,
 				0447C90B296F3EF700D8D234 /* GreenFoodOrderUITests */,
@@ -171,6 +177,7 @@
 				0447C8F1296F3EF500D8D234 /* GreenFoodOrderApp.swift */,
 				0435F2972979DF1E00375BE3 /* GoogleService-Info.plist */,
 				0447C8F3296F3EF500D8D234 /* ContentView.swift */,
+				046CAFFA2A3665C200B4DFC8 /* AuthenticationViewModel.swift */,
 				0447C8F5296F3EF700D8D234 /* Assets.xcassets */,
 				04C947BF297006990014A386 /* Launch Screen.storyboard */,
 				0447C91E296F3F1900D8D234 /* Model */,
@@ -279,6 +286,7 @@
 				0435F2CC2979E29800375BE3 /* FirebaseStorage */,
 				0435F2CE2979E29800375BE3 /* FirebaseStorageCombine-Community */,
 				04E5F981297B41A200BA067A /* SDWebImageSwiftUI */,
+				046CAFF82A3657C500B4DFC8 /* FortuneWheel */,
 			);
 			productName = GreenFoodOrder;
 			productReference = 0447C8EE296F3EF500D8D234 /* GreenFoodOrder.app */;
@@ -355,6 +363,7 @@
 			packageReferences = (
 				0435F2992979E29800375BE3 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */,
 				04E5F980297B41A100BA067A /* XCRemoteSwiftPackageReference "SDWebImageSwiftUI" */,
+				046CAFF72A3657C500B4DFC8 /* XCRemoteSwiftPackageReference "FortuneWheel" */,
 			);
 			productRefGroup = 0447C8EF296F3EF500D8D234 /* Products */;
 			projectDirPath = "";
@@ -406,6 +415,7 @@
 				0447C91C296F3F0E00D8D234 /* Home.swift in Sources */,
 				0447C8F2296F3EF500D8D234 /* GreenFoodOrderApp.swift in Sources */,
 				04E5F97F297B40AB00BA067A /* ItemView.swift in Sources */,
+				046CAFFB2A3665C200B4DFC8 /* AuthenticationViewModel.swift in Sources */,
 				0435F2D12979E7B300375BE3 /* Item.swift in Sources */,
 				0447C921296F3F4700D8D234 /* HomeViewModel.swift in Sources */,
 				04FADD9D298315CF00F904FE /* Cart.swift in Sources */,
@@ -765,6 +775,14 @@
 				minimumVersion = 9.0.0;
 			};
 		};
+		046CAFF72A3657C500B4DFC8 /* XCRemoteSwiftPackageReference "FortuneWheel" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/sameersyd/FortuneWheel.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 0.1.5;
+			};
+		};
 		04E5F980297B41A100BA067A /* XCRemoteSwiftPackageReference "SDWebImageSwiftUI" */ = {
 			isa = XCRemoteSwiftPackageReference;
 			repositoryURL = "https://github.com/SDWebImage/SDWebImageSwiftUI.git";
@@ -910,6 +928,11 @@
 			isa = XCSwiftPackageProductDependency;
 			package = 0435F2992979E29800375BE3 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
 			productName = "FirebaseStorageCombine-Community";
+		};
+		046CAFF82A3657C500B4DFC8 /* FortuneWheel */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 046CAFF72A3657C500B4DFC8 /* XCRemoteSwiftPackageReference "FortuneWheel" */;
+			productName = FortuneWheel;
 		};
 		04E5F981297B41A200BA067A /* SDWebImageSwiftUI */ = {
 			isa = XCSwiftPackageProductDependency;
