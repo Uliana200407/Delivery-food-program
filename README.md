@@ -1,13 +1,14 @@
-# Delivery-food-program
+# Delivery-food-program🍀
 Well, here I'd like to introduce you my delivery food program called, as a "GreenFood", which is in the cooperation with Firebase.
 -  [Functional details🔐](#Functional-details🔐)
 -  [Demonstration of work📲](#Demonstration-of-work📲)
 -  [Photo demonstration of work📸](#Photo-demonstration-of-work📸)
 
 ## Functional details🔐
-| Firebase    | SDWebImage  | leveldb     | SDWebImageSwiftUI |
-|-------------|-------------|-------------|-------------------|
-| 9.6.0       | 5.15.0      | 1.22.1.     | 2.2.2             |
+| **Firebase**    | **SDWebImage**  | **leveldb**     | **SDWebImageSwiftUI** |
+|-----------------|-----------------|-----------------|-----------------------|
+| 9.6.0           | 5.15.0          | 1.22.1.         | 2.2.2                 |
+
 
 
 
