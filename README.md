@@ -14,8 +14,6 @@ Well, here I'd like to introduce you my delivery food program called, as a "Gree
 <a name="Brief-description🔖"/></a>
 ## Brief description🔖
 
-## Green Food Delivery App
-
 The "Green Food" delivery app is a user-friendly and efficient solution for food delivery services. It seamlessly integrates with Firebase, providing a robust backend infrastructure. 
 
 ### Features
