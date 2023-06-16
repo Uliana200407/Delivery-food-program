@@ -34,6 +34,9 @@ The app utilizes Firebase as its backend infrastructure, ensuring efficient data
 "Green Food" is a fully functional and practical app designed to cater to the everyday needs of users, making food delivery a convenient and enjoyable experience.
 
 *Try out the "Green Food" delivery app today and discover a new level of convenience in food ordering!*
+<p align="center">
+  <img src="шлях_до_зображення.png" alt="Опис зображення">
+</p>
 
 <a name="Photo-demonstration-of-work"/></a>
 ## Photo demonstration of work
