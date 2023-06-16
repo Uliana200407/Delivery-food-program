@@ -7,9 +7,10 @@ Well, here I'd like to introduce you my delivery food program called, as a "Gree
 <a name="Functional-details"/></a>
 ## Functional details📍
 **_❗️Essential packages for the pet-project:❗️_**
-| **Firebase**    | **SDWebImage**  | **leveldb**     | **SDWebImageSwiftUI** |
-|-----------------|-----------------|-----------------|-----------------------|
-| 9.6.0           | 5.15.0          | 1.22.1.         | 2.2.2                 |
+| Packages📦         | Firebase    | SDWebImage  | leveldb     | SDWebImageSwiftUI |
+|-------------------|-------------|-------------|-------------|-------------------|
+| Version           | 9.6.0       | 5.15.0      | 1.22.1      | 2.2.2             |
+
 
 
 
