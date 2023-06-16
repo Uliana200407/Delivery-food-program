@@ -44,11 +44,11 @@ Image 1 | Image 2
 
 Image 3 | Image 4
 :-: | :-:
-![Image3](https://imgur.com/IkDUhQb) | ![Image4](https://i.imgur.com/CJ917vf.png)
+![Image3](https://i.imgur.com/IkDUhQb.png) | ![Image4](https://i.imgur.com/jOB4uBe.png)
 
 Image 5 | Image 6
 :-: | :-:
-![Image5](https://i.imgur.com/c37oO0v.png) | ![Image6](https://i.imgur.com/fy2Id11.png)
+![Image5](https://i.imgur.com/FUSQxLt.png) | ![Image6](https://i.imgur.com/sR3G3td.png)
 
 
 
