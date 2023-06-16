@@ -18,7 +18,7 @@ The "Green Food" delivery app is a user-friendly and efficient solution for food
 
 ### Features
 
-- **User Authorization:** The app begins with a secure user authorization process, ensuring data privacy and access control.
+- **User Authorization:** The app begins with a secure user authorization process, ensuring data privacy and access control + user location.
 - **Browse and Filter Menu:** Customers can easily navigate through the menu, applying filters to find their desired dishes quickly.
 - **Detailed Dish Information:** Users can access comprehensive information about each dish, including ingredients, nutritional facts, and customer reviews.
 - **Effortless Ordering:** Placing orders is a breeze, allowing customers to enjoy their favorite meals hassle-free.
@@ -35,7 +35,20 @@ The app utilizes Firebase as its backend infrastructure, ensuring efficient data
 
 *Try out the "Green Food" delivery app today and discover a new level of convenience in food ordering!*
 
+<a name="Photo-demonstration-of-work"/></a>
+## Photo demonstration of work
 
+Image 1 | Image 2
+:-: | :-:
+![Image1](https://i.imgur.com/IgIfDxZ.png) | ![Image2](https://i.imgur.com/Xwo8Bzg.png)
+
+Image 3 | Image 4
+:-: | :-:
+![Image3](https://imgur.com/IkDUhQb) | ![Image4](https://i.imgur.com/CJ917vf.png)
+
+Image 5 | Image 6
+:-: | :-:
+![Image5](https://i.imgur.com/c37oO0v.png) | ![Image6](https://i.imgur.com/fy2Id11.png)
 
 
 
@@ -45,4 +58,3 @@ The app utilizes Firebase as its backend infrastructure, ensuring efficient data
 https://user-images.githubusercontent.com/114984015/231269550-0f96adea-ab38-4b11-9ab2-90fa5d874859.mp4
 
 <a name="Photo-demonstration-of-work"/></a>
-## Photo demonstration of work
