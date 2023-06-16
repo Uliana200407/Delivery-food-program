@@ -38,17 +38,17 @@ The app utilizes Firebase as its backend infrastructure, ensuring efficient data
 <a name="Photo-demonstration-of-work"/></a>
 ## Photo demonstration of work
 
-Image 1 | Image 2
+Authorisation  | MainMenu
 :-: | :-:
-![Image1](https://i.imgur.com/IgIfDxZ.png) | ![Image2](https://i.imgur.com/Xwo8Bzg.png)
+![Authorisation](https://i.imgur.com/IgIfDxZ.png) | ![MainMenu](https://i.imgur.com/Xwo8Bzg.png)
 
-Image 3 | Image 4
+DetailedView | CartView
 :-: | :-:
-![Image3](https://i.imgur.com/IkDUhQb.png) | ![Image4](https://i.imgur.com/jOB4uBe.png)
+![DetailedView](https://i.imgur.com/IkDUhQb.png) | ![CartView](https://i.imgur.com/jOB4uBe.png)
 
-Image 5 | Image 6
+DiscountWheel | Content
 :-: | :-:
-![Image5](https://i.imgur.com/FUSQxLt.png) | ![Image6](https://i.imgur.com/sR3G3td.png)
+![DiscountWheel](https://i.imgur.com/FUSQxLt.png) | ![Content](https://i.imgur.com/sR3G3td.png)
 
 
 
