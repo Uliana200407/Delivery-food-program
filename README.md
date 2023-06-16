@@ -35,7 +35,7 @@ The app utilizes Firebase as its backend infrastructure, ensuring efficient data
 
 *Try out the "Green Food" delivery app today and discover a new level of convenience in food ordering!*
 <p align="center">
-  <img src="шлях_до_зображення.png" alt="Опис зображення">
+  <img src="https://i.imgur.com/9HL3eux.png" alt="Data Base of "Green Food">
 </p>
 
 <a name="Photo-demonstration-of-work"/></a>
