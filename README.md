@@ -2,8 +2,8 @@
 Well, here I'd like to introduce you my delivery food program called, as a "GreenFood", which is in the cooperation with Firebase.
 -  [Functional details📍](#Functional-details📍)
 -  [Brief description🔖](#Brief-description🔖)
--  [Photo demonstration of work](#Photo-demonstration-of-work)
--  [Demonstration of work](#Demonstration-of-work)
+-  [Photo demonstration of work📸](#Photo-demonstration-of-work📸)
+-  [Demonstration of work📲](#Demonstration-of-work📲)
 <a name="Functional-details📍"/></a>
 ## Functional details📍
 **_❗️Essential packages for the pet-project:❗️_**
@@ -38,8 +38,8 @@ The app utilizes Firebase as its backend infrastructure, ensuring efficient data
   <img src="https://i.imgur.com/9HL3eux.png" alt="Data Base of "Green Food">
 </p>
 
-<a name="Photo-demonstration-of-work"/></a>
-## Photo demonstration of work
+<a name="Photo-demonstration-of-work📸"/></a>
+## Photo demonstration of work📸
 
 Authorisation  | MainMenu
 :-: | :-:
@@ -56,11 +56,10 @@ DiscountWheel | Content
 
 
 
-<a name="Demonstration-of-work"/></a>
-## Demonstration of work
+<a name="Demonstration-of-work📲"/></a>
+## Demonstration of work📲
 
 
 https://github.com/Uliana200407/Delivery-food-program/assets/114984015/e4fb0f87-20a8-47a9-9404-ef63e686a344
 
 
-<a name="Photo-demonstration-of-work"/></a>
